@@ -1,0 +1,262 @@
+*.pkl
+*.py
+.ipynb_checkpoints
+*.npy
+*/dask-worker-space/*
+*.err
+*.out
+
+220112_blip_Fig1.ipynb
+220112_blip_Fig2.ipynb
+220112_blip_Fig8.ipynb
+220132_blip_Fig12.ipynb
+220201_baseline_test.ipynb
+220204_blip_Fig4.ipynb
+220211_blip_Fig3.ipynb
+220215_blip_Fig9.ipynb
+220225_blip_Fig10.ipynb
+220309_blip_Fig5.ipynb
+220311_blip_Fig4_classifier.ipynb
+220311_blip_Fig4_single_odour.ipynb
+220315_blip_fig6.ipynb
+220330_blip_Fig7.ipynb
+220331_Fig13.ipynb
+220404_Fig11_blip.ipynb
+220408_blip_Fig10_2.ipynb
+220712_cleanup.ipynb
+220801_pseudo_pop_noise_input.ipynb
+220805_distance_matrices_stability.ipynb
+220816_distance_similarity.ipynb
+220816_respiration_convolution.ipynb
+220824_non_linearity.ipynb
+220908_tuning_curves.ipynb
+220912_modelled_population.ipynb
+230207_corrections_blip_Fig2.ipynb
+Fig2_unit_responsiveness_bar.pdf
+figure.code-workspace
+__pycache__/blip_analysis_manu.cpython-37.pyc
+__pycache__/blip_models_manu.cpython-37.pyc
+__pycache__/exp_blip_models_manu.cpython-37.pyc
+bash_scripts/220407_joined_weights_model.sh
+Clustering/230126_clustering_residuals.ipynb
+dask-worker-space/global.lock
+dask-worker-space/purge.lock
+Fig5/230413_fig5.ipynb
+Old figs/Fig1/220112_example_binary_plots.pdf
+Old figs/Fig1/220112_trial0_PID_and_flow.pdf
+Old figs/Fig1/220112_trial1_PID_and_flow.pdf
+Old figs/Fig1/220112_trial21_PID_and_flow.pdf
+Old figs/Fig1/220112_trial31_PID_and_flow.pdf
+Old figs/Fig1/220113_flow_and_PID_correlation.pdf
+Old figs/Fig10/220414_all_cell_afts_and_thresh.pdf
+Old figs/Fig10/220414_all_cell_afts_and_thresh.png
+Old figs/Fig2/Fig2_unit_responsiveness_bar.pdf
+Old figs/Fig2/Fig2.pdf
+Old figs/Fig2/Fig2.png
+Old figs/Fig3/Fig3_20.pdf
+Old figs/Fig3/Fig3_20.png
+Old figs/Fig3/Fig3_21.pdf
+Old figs/Fig3/Fig3_21.png
+Old figs/Fig3/Fig3_23.pdf
+Old figs/Fig3/Fig3_23.png
+Old figs/Fig3/Fig3_25.pdf
+Old figs/Fig3/Fig3_25.png
+Old figs/Fig3/Fig3_26.pdf
+Old figs/Fig3/Fig3_26.png
+Old figs/Fig3/Fig3_31.pdf
+Old figs/Fig3/Fig3_31.png
+Old figs/Fig3/Fig3_32.pdf
+Old figs/Fig3/Fig3_32.png
+Old figs/Fig3/Fig3_35.pdf
+Old figs/Fig3/Fig3_35.png
+Old figs/Fig3/Fig3_36.pdf
+Old figs/Fig3/Fig3_36.png
+Old figs/Fig3/Fig3_41.pdf
+Old figs/Fig3/Fig3_41.png
+Old figs/Fig3/Fig3_42.pdf
+Old figs/Fig3/Fig3_42.png
+Old figs/Fig3/Fig3_43.pdf
+Old figs/Fig3/Fig3_43.png
+Old figs/Fig3/Fig3_46.pdf
+Old figs/Fig3/Fig3_46.png
+Old figs/Fig3/Fig3_47.pdf
+Old figs/Fig3/Fig3_47.png
+Old figs/Fig3/Fig3_49.pdf
+Old figs/Fig3/Fig3_49.png
+Old figs/Fig3/Fig3_65.pdf
+Old figs/Fig3/Fig3_65.png
+Old figs/Fig3/Fig3_67.pdf
+Old figs/Fig3/Fig3_67.png
+Old figs/Fig3/Fig3_70.pdf
+Old figs/Fig3/Fig3_70.png
+Old figs/Fig3/Fig3_71.pdf
+Old figs/Fig3/Fig3_71.png
+Old figs/Fig3/Fig3_73.pdf
+Old figs/Fig3/Fig3_73.png
+Old figs/Fig3/Fig3_86.pdf
+Old figs/Fig3/Fig3_86.png
+Old figs/Fig3/Fig3_88.pdf
+Old figs/Fig3/Fig3_88.png
+Old figs/Fig3/Fig3_89.pdf
+Old figs/Fig3/Fig3_89.png
+Old figs/Fig3/Fig3_93.pdf
+Old figs/Fig3/Fig3_93.png
+Old figs/Fig3/Fig3_94.pdf
+Old figs/Fig3/Fig3_94.png
+Old figs/Fig3/Fig3_95.pdf
+Old figs/Fig3/Fig3_95.png
+Old figs/Fig3/Fig3_99.pdf
+Old figs/Fig3/Fig3_99.png
+Old figs/Fig3/Fig3_100.pdf
+Old figs/Fig3/Fig3_100.png
+Old figs/Fig3/Fig3_102.pdf
+Old figs/Fig3/Fig3_102.png
+Old figs/Fig3/Fig3_104.pdf
+Old figs/Fig3/Fig3_104.png
+Old figs/Fig3/Fig3_106.pdf
+Old figs/Fig3/Fig3_106.png
+Old figs/Fig3/Fig3_108.pdf
+Old figs/Fig3/Fig3_108.png
+Old figs/Fig3/Fig3_109.pdf
+Old figs/Fig3/Fig3_109.png
+Old figs/Fig3/Fig3_110.pdf
+Old figs/Fig3/Fig3_110.png
+Old figs/Fig3/Fig3_111.pdf
+Old figs/Fig3/Fig3_111.png
+Old figs/Fig3/Fig3_113.pdf
+Old figs/Fig3/Fig3_113.png
+Old figs/Fig3/Fig3_114.pdf
+Old figs/Fig3/Fig3_114.png
+Old figs/Fig3/Fig3_115.pdf
+Old figs/Fig3/Fig3_115.png
+Old figs/Fig3/Fig3_116.pdf
+Old figs/Fig3/Fig3_116.png
+Old figs/Fig3/Fig3_118.pdf
+Old figs/Fig3/Fig3_118.png
+Old figs/Fig3/Fig3_119.pdf
+Old figs/Fig3/Fig3_119.png
+Old figs/Fig3/Fig3_120.pdf
+Old figs/Fig3/Fig3_120.png
+Old figs/Fig3/Fig3_124.pdf
+Old figs/Fig3/Fig3_124.png
+Old figs/Fig3/Fig3_136.pdf
+Old figs/Fig3/Fig3_136.png
+Old figs/Fig3/Fig3_137.pdf
+Old figs/Fig3/Fig3_137.png
+Old figs/Fig3/Fig3_138.pdf
+Old figs/Fig3/Fig3_138.png
+Old figs/Fig3/Fig3_140.pdf
+Old figs/Fig3/Fig3_140.png
+Old figs/Fig3/Fig3_141.pdf
+Old figs/Fig3/Fig3_141.png
+Old figs/Fig3/Fig3.pdf
+Old figs/Fig3/Fig3.png
+Old figs/Fig4/Fig4_cms_pca.pdf
+Old figs/Fig4/Fig4_cms_pca.png
+Old figs/Fig4/Fig4_cms.pdf
+Old figs/Fig4/Fig4_cms.png
+Old figs/Fig4/Fig4_dms.pdf
+Old figs/Fig4/Fig4_dms.png
+Old figs/Fig4/Fig4_sigs_cbar.pdf
+Old figs/Fig4/Fig4_sigs_cbar.png
+Old figs/Fig4/Fig4_sigs.pdf
+Old figs/Fig4/Fig4_sigs.png
+Old figs/Fig5/220312_fig5_conc_vs_onset_dist.pdf
+Old figs/Fig5/220312_fig5_conc_vs_onset_dist.png
+Old figs/Fig5/220312_fig5_example_fits_unit36.pdf
+Old figs/Fig5/220312_fig5_example_fits_unit36.png
+Old figs/Fig5/220312_fig5_example_fits_unit137.pdf
+Old figs/Fig5/220312_fig5_example_fits_unit137.png
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms1.pdf
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms1.png
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms2.pdf
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms2.png
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms3.pdf
+Old figs/Fig5/220312_Fig5_lnp_conc_onset_dms3.png
+Old figs/Fig5/220509_fig5_conc_vs_onset_dist_all_odour.pdf
+Old figs/Fig5/220510_conc_and_onset_bin_weights.pdf
+Old figs/Fig5/220510_conc_and_onset_bin_weights.pdf.329b63d4-cf1e-44b3-9951-f195286d68bd
+Old figs/Fig6/220330_best_fit_model.pdf
+Old figs/Fig6/220330_best_fit_model.png
+Old figs/Fig6/220330_Fig6_change_fit_score.pdf
+Old figs/Fig6/220330_Fig6_change_fit_score.png
+Old figs/Fig6/220330_fig6_example_fits_unit27.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit27.png
+Old figs/Fig6/220330_fig6_example_fits_unit36.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit36.png
+Old figs/Fig6/220330_fig6_example_fits_unit37.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit37.png
+Old figs/Fig6/220330_fig6_example_fits_unit61.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit61.png
+Old figs/Fig6/220330_fig6_example_fits_unit71.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit71.png
+Old figs/Fig6/220330_fig6_example_fits_unit137.pdf
+Old figs/Fig6/220330_fig6_example_fits_unit137.png
+Old figs/Fig6/220330_Fig6_fit_scores.pdf
+Old figs/Fig6/220330_Fig6_fit_scores.png
+Old figs/Fig6/Fig6_dms.pdf
+Old figs/Fig6/Fig6_dms.png
+Old figs/Fig7/220330_Fig7_sorted_bin1.pdf
+Old figs/Fig7/220330_Fig7_sorted_bin1.png
+Old figs/Fig7/220330_Fig7_sorted_bin2.pdf
+Old figs/Fig7/220330_Fig7_sorted_bin2.png
+Old figs/Fig7/220330_Fig7_sorted_bin3.pdf
+Old figs/Fig7/220330_Fig7_sorted_bin3.png
+Old figs/Fig7/220331_Fig7_explained_variance.pdf
+Old figs/Fig7/220331_Fig7_explained_variance.png
+Old figs/Fig7/220331_fig7_top_pc.pdf
+Old figs/Fig7/220331_fig7_top_pc.png
+Old figs/Fig8/220405_fig8_sorted_res_weights1.pdf
+Old figs/Fig8/220405_fig8_sorted_res_weights1.png
+Old figs/Fig8/220405_fig8_sorted_res_weights2.pdf
+Old figs/Fig8/220405_fig8_sorted_res_weights2.png
+Old figs/Fig8/220405_fig8_sorted_res_weights3.pdf
+Old figs/Fig8/220405_fig8_sorted_res_weights3.png
+Old figs/Fig8/220406_all_clustered_bins_odour1.pdf
+Old figs/Fig8/220406_all_clustered_bins_odour1.png
+Old figs/Fig8/220406_all_clustered_bins_odour2.pdf
+Old figs/Fig8/220406_all_clustered_bins_odour2.png
+Old figs/Fig8/220406_all_clustered_bins_odour3.pdf
+Old figs/Fig8/220406_all_clustered_bins_odour3.png
+Old figs/Fig8/220510_DBSCAN_Odour1_sweep.pdf
+Old figs/Fig8/220510_DBSCAN_Odour2_sweep.pdf
+Old figs/Fig8/220510_DBSCAN_Odour3_sweep.pdf
+Old figs/Fig8/220510_odour1_agg_clustering.pdf
+Old figs/Fig8/220510_odour2_agg_clustering.pdf
+Old figs/Fig8/220510_odour3_agg_clustering.pdf
+Old figs/Fig8/OPTICS_cluster0_odour1.pdf
+Old figs/Fig8/OPTICS_cluster0_odour1.png
+Old figs/Fig8/OPTICS_cluster0_odour2.pdf
+Old figs/Fig8/OPTICS_cluster0_odour2.png
+Old figs/Fig8/OPTICS_cluster0_odour3.pdf
+Old figs/Fig8/OPTICS_cluster0_odour3.png
+Old figs/Fig8/OPTICS_cluster1_odour1.pdf
+Old figs/Fig8/OPTICS_cluster1_odour1.png
+Old figs/Fig8/OPTICS_cluster1_odour2.pdf
+Old figs/Fig8/OPTICS_cluster1_odour2.png
+Old figs/Fig8/OPTICS_cluster1_odour3.pdf
+Old figs/Fig8/OPTICS_cluster1_odour3.png
+Old figs/Fig8/OPTICS_cluster2_odour1.pdf
+Old figs/Fig8/OPTICS_cluster2_odour1.png
+Old figs/Fig8/OPTICS_cluster2_odour2.pdf
+Old figs/Fig8/OPTICS_cluster2_odour2.png
+Old figs/Fig8/OPTICS_cluster2_odour3.pdf
+Old figs/Fig8/OPTICS_cluster2_odour3.png
+Old figs/Fig8/OPTICS_cluster3_odour1.pdf
+Old figs/Fig8/OPTICS_cluster3_odour1.png
+Old figs/Fig8/OPTICS_cluster3_odour2.pdf
+Old figs/Fig8/OPTICS_cluster3_odour2.png
+Old figs/Fig8/OPTICS_cluster3_odour3.pdf
+Old figs/Fig8/OPTICS_cluster3_odour3.png
+Old figs/Fig8/OPTICS_cluster4_odour1.pdf
+Old figs/Fig8/OPTICS_cluster4_odour1.png
+Old figs/Fig8/OPTICS_cluster4_odour2.pdf
+Old figs/Fig8/OPTICS_cluster4_odour2.png
+Old figs/Fig8/OPTICS_cluster4_odour3.pdf
+Old figs/Fig8/OPTICS_cluster4_odour3.png
+Old figs/Fig8/OPTICS_cluster5_odour2.pdf
+Old figs/Fig8/OPTICS_cluster5_odour2.png
+Old figs/Fig9/220331_Fig9_removed_pc_bins_clust_normed.pdf
+Old figs/Fig9/220331_Fig9_removed_pc_bins_clust_normed.png
+Old figs/Fig9/220331_Fig9_removed_pc_bins_clust.pdf
+Old figs/Fig9/220331_Fig9_removed_pc_bins_clust.png
