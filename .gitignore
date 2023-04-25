@@ -41,7 +41,6 @@ bash_scripts/220407_joined_weights_model.sh
 Clustering/230126_clustering_residuals.ipynb
 dask-worker-space/global.lock
 dask-worker-space/purge.lock
-Fig5/230413_fig5.ipynb
 Old figs/Fig1/220112_example_binary_plots.pdf
 Old figs/Fig1/220112_trial0_PID_and_flow.pdf
 Old figs/Fig1/220112_trial1_PID_and_flow.pdf
