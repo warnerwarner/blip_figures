@@ -1,0 +1,28 @@
+
+{
+    "model_labels":{
+        "true":"True",
+        "onset":"Latency",
+        "conc":"Total odour",
+        "CAO":"L&T",
+        "diff":"Differential",
+        "base":"Linear"
+    },
+    "model_colors":{
+        "true":"black",
+        "onset":"blue",
+        "conc":"red",
+        "CAO":"purple",
+        "diff":"orange",
+        "base":"green"
+    },
+    "odour_labels":["O1", "O2", "O3"],
+    "odour_markers":["s", "^", "o"],
+    "odour_edgecolor":"k",
+    "odour_colors":["sandybrown", "lightgreen", "lightskyblue"],
+    "classifier_cm_color":"plasma",
+    "distance_color":"cool",
+
+    "label_axes_font_size":16,
+    "label_axes_font_weight":"bold"
+}
